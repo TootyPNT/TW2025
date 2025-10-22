@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1> Primul Commit </h1>
+        <br>
+    <p> HTML is fun </p>
 </body>
 </html>
